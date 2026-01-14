@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# CEBRA data / source outputs (local only)
+CEBRA_source_test/
+
+# Large neuroscience / MATLAB data
+*.mat
+*.h5
+*.hdf5

@@ -49,7 +49,7 @@ from matplotlib import cm
 DEFAULT_DATA_ROOT = Path(
     os.environ.get(
         "INHIB_CONTROL_ROOT",
-        "/Users/timothylantin/Desktop/scripts/cebra_test/data/inhibitory_control/preprocessed time series"  # <-- EDIT THIS
+        "/Users/Columbia/Downloads/transcriptomics_ym/CEBRA_source_test/preprocessed time series"  # <-- EDIT THIS
     )
 )
 
